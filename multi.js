@@ -1,7 +1,7 @@
 document.getElementById("correct").addEventListener("click", changeToGreen());
 
-function changeToRed()
+function changeToGreen()
 {
   //"this" refers to the object that called the method
-  this.style.color = "green";
+  this.style.backgroundColor = "green";
 }
