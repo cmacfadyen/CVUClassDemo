@@ -1,4 +1,4 @@
-var animal = window.prompt("Enter a noun");
+var animal = window.prompt("Enter an animal");
 var action = window.prompt("Enter a verb");
 var adj = window.prompt("Enter an adjective");
 
