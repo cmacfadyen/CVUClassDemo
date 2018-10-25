@@ -6,4 +6,5 @@ var story1 = "Yesterday I got a new pet.  It's a ";
 var story2 = "! It's kind of ";
 var story3 = "and it likes to ";
 
+//put story into the paragraph
 document.getElementById("story").innerHTML = story1 + animal + story2 + adj + story 3 + action;
