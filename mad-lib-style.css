@@ -10,3 +10,10 @@
 h2{
   font-size:32pt;
 }
+
+li{
+ font-style:italic;
+}
+#win{
+ display:none;
+}
