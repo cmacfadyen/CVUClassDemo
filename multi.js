@@ -1,7 +1,6 @@
-document.getElementById("correct").addEventListener("click", changeToGreen());
+document.getElementById("correct").addEventListener("click", youWin());
 
-function changeToGreen()
+function youWin()
 {
-  //"this" refers to the object that called the method
-  this.style.backgroundColor = "green";
+ document.getElementById("win").style.display = "block";
 }
