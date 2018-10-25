@@ -1,5 +1,5 @@
 var animal = window.prompt("Enter a noun");
-var action = window.prompt(Enter a verb");
+var action = window.prompt("Enter a verb");
 var adj = window.prompt("Enter an adjective");
 
 var story1 = "Yesterday I got a new pet.  It's a ";
